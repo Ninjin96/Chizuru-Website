@@ -1,28 +1,158 @@
 body
 {
-  background-color: #ffe2e2
+  margin: 0px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.subtitle
+{
+  margin: 0px 0px 75px 0px;
+  font-size: 18px;
+}
+
+h1
+{
+  margin: 0px;
+  font-size: 80px;
+  font-family: 'Chilanka', cursive;
+}
+
+h2
+{
+  margin-bottom: 20px;
+  font-family: 'Comfortaa', cursive;
+  font-size: 40px;
+}
+
+h3
+{
+  margin: 0px;
+  font-family: 'Comfortaa', cursive;
+}
+
+p
+{
+  padding: 0px 200px;
+}
+
+ul
+{
+  display: inline-block;
+  text-align: left;
+}
+
+li
+{
+  margin: 5px 0px;
+  font-size: 18px;
+}
+
+.center-list
+{
+  text-align: center;
 }
 
 hr
 {
   border-style: dotted none none;
-  border-color: #aaaaaa;
-  border-width: 6px;
-  width: 4%;
+  border-color: #ffb0b0;
+  border-width: 10px;
+  width: 7%;
+  /* If you use the width tag then you need to align using auto in margin */
+  margin: 100px auto;
 }
 
-h1
+table
 {
-    color: #373a40;
-    font-size: 45px;
-    text-shadow: 0.5px 0.5px 1px grey;
+  margin: 0px auto;
+  border: palevioletred;
+  border-style: ridge;
+  border-width: 10px;
+  text-align: left;
 }
 
-
-h3
+thead
 {
-    color: #373a40;
-    font-size: 25px;
-    text-shadow: 0.5px 0.5px 1px grey;
+  text-decoration: underline;
 }
 
+label
+{
+  display: inline-block;
+  text-align: right;
+  width: 150px;
+}
+
+textarea
+{
+  resize: none;
+  width: 300px;
+  height: 200px;
+  position: relative;
+
+}
+
+.top
+{
+  background-color: #ffe2e2;
+  padding-top: 50px;
+}
+
+.middle
+{
+  background-color: #ffc7c7;
+  padding: 50px 500px;
+}
+
+.bottom
+{
+  background-color: #aaaaaa;
+  margin: 0;
+}
+
+.chizuru-circle
+{
+  margin-bottom: 50px;
+}
+
+.stars-top
+{
+  position: absolute;
+  top: 0px;
+  right: 600px;
+}
+
+.stars-bottom
+{
+  position: absolute;
+  bottom: 600px;
+  left: 600px;
+}
+
+.flowers
+{
+  margin: 50px;
+}
+
+.details
+{
+  width: 300px;
+}
+
+.your-message
+{
+  position: relative;
+  bottom: 190px;;
+}
+
+.submit-button
+{
+  position: relative;
+  left: 190px;
+}
+
+.bottom-copyright
+{
+  margin: 0px;
+}
