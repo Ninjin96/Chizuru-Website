@@ -1,6 +1,8 @@
 # Learning Repo
-This is the repo where I try to learn to do Web Development and use GitHub using my waifu Chizuru as the main subject.
+FIRST PERSONAL FRONT-END STATIC WEBSITE
 
-I use Visual Studio Code.
+In this project, I've made usage of HTML and CSS only for the sake of getting familiar with the technologies!
 
-For a quick overview you can watch my website on https://ninjin96.github.io/Chizuru-Website/
+Hello future me and everyone else! I'm currently finding out how GitHub works :)
+
+For a quick overview of the end product you can see my website that hosted on GitHub through this link: https://ninjin96.github.io/Chizuru-Website/
